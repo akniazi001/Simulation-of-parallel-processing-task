@@ -1,0 +1,23 @@
+D:\sites\bonespoint\bonespoint\bin\Debug\bonespoint.exe
+D:\sites\bonespoint\bonespoint\bin\Debug\bonespoint.pdb
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.csprojResolveAssemblyReference.cache
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.Form1.resources
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.Properties.Resources.resources
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.csproj.GenerateResource.Cache
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.exe
+D:\sites\bonespoint\bonespoint\obj\Debug\bonespoint.pdb
+D:\sites\bnsold\bonespoint\bin\Debug\bonespoint.exe
+D:\sites\bnsold\bonespoint\bin\Debug\bonespoint.pdb
+D:\sites\bnsold\bonespoint\obj\Debug\bonespoint.Form1.resources
+D:\sites\bnsold\bonespoint\obj\Debug\bonespoint.Properties.Resources.resources
+D:\sites\bnsold\bonespoint\obj\Debug\bonespoint.csproj.GenerateResource.Cache
+D:\sites\bnsold\bonespoint\obj\Debug\bonespoint.exe
+D:\sites\bnsold\bonespoint\obj\Debug\bonespoint.pdb
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.exe
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.pdb
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\bin\Debug\bonespoint.exe
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\bin\Debug\bonespoint.pdb
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.csprojResolveAssemblyReference.cache
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.Form1.resources
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.Properties.Resources.resources
+C:\Users\Altaf Khan Niazi\Desktop\Bones point project Atlaf khan 135352\bonespoint\obj\Debug\bonespoint.csproj.GenerateResource.Cache
